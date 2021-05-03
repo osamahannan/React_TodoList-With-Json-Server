@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "Title": "What are we doing during monday to friday ?",
+      "Action": "-->Studying at home",
+      "body": "Study skills, academic skill, or study strategies are approaches applied to learning. They are generally critical to success in school, considered essential for acquiring good grades, and useful for learning throughout one's life.Study skills are an array of skills which tackle the process of organizing and taking in new information, retaining information, or dealing with assessments. They include mnemonics, which aid the retention of lists of information; effective reading; concentration techniques and efficient note taking.",
+      "id": 1
+    },
+    {
+      "Title": "What are we doing on saturday ?",
+      "Action": "-->Playing Badminton",
+      "body": "Badminton is a racquet sport played using racquets to hit a shuttlecock across a net. Although it may be played with larger teams, the most common forms of the game are singles (with one player per side) and doubles (with two players per side). Badminton is often played as a casual outdoor activity in a yard or on a beach; formal games are played on a rectangular indoor court. Points are scored by striking the shuttlecock with the racquet and landing it within the opposing side's half of the court.",
+      "id": 2
+    },
+    {
+      "Title": "What are we doing on sunday ?",
+      "Action": "-->Playing cricket",
+      "body": "Cricket is a bat-and-ball game played between two teams of eleven players on a field at the centre of which is a 22-yard (20-metre) pitch with a wicket at each end, each comprising two bails balanced on three stumps. The batting side scores runs by striking the ball bowled at the wicket with the bat (and running between the wickets), while the bowling and fielding side tries to prevent this (by preventing the ball from leaving the field, and getting the ball to either wicket) and dismiss each batter (so they are out).",
+      "id": 3
+    }
+  ]
+}
